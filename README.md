@@ -20,5 +20,8 @@ npm run serve
 https://localhost:8080/
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Guidance by:-
+```
+This project is done under the supervision of Dr. Sumit Kalra
+```
+
